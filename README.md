@@ -15,5 +15,4 @@ to create packages.
 
 # To do
 
-- Does the Droidcam client supports x64?
 - Investigate about distribution rights.
