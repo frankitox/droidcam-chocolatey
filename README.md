@@ -1,4 +1,4 @@
-# Droicam chocolatey
+# DroidCam chocolatey
 
 Chocolatey package for Droidcam Windows client. Currently not in
 chocolatey's repository, to install:
