@@ -10,6 +10,7 @@
     <title>DroidCam Client</title>
     <authors>Dev47Apps</authors>
     <projectUrl>https://www.dev47apps.com/droidcam/windows/</projectUrl>
+    <iconUrl>https://github.com/frankitox/droidcam-chocolatey/releases/download/6.3.3/droidcam-icon.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <docsUrl>https://www.dev47apps.com/droidcam/connect/</docsUrl>
     <tags>droidcam</tags>
